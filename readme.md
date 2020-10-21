@@ -22,9 +22,15 @@
 <img alt="Adobe XD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg"/>
 -->
 
-<br/><br/>
+<br/>
 
 <img alt="Salesforce Certified Platform Developer I | Attest-ID 19332277" width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6rl&oid=00DF0000000gZsu&lastMod=1571914738000"/> <img alt="Salesforce Certified Platform App Builder | Attest-ID 16767781" width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6rg&oid=00DF0000000gZsu&lastMod=1571914579000"/>
+
+
+### Connect
+
+[<img align="left" alt="Hallvard Jore Christensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+<br/>
 
 
 -----
@@ -34,12 +40,6 @@
     <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hajoch&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
------
-
-### Connect
-
-[<img align="left" alt="Hallvard Jore Christensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-<br/>
 
 
 [linkedin]: https://linkedin.com/in/hallvardjorechristensen
