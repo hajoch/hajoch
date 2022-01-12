@@ -24,7 +24,11 @@
 
 <br/>
 
-<img alt="Salesforce Certified Platform Developer I | Attest-ID 19332277" width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6rl&oid=00DF0000000gZsu&lastMod=1571914738000"/> <img alt="Salesforce Certified Platform App Builder | Attest-ID 16767781" width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6rg&oid=00DF0000000gZsu&lastMod=1571914579000"/>
+### Certifications
+
+<img alt="Salesforce Certified Application Architect | Attest_ID " width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mty&oid=00DF0000000gZsu&lastMod=1617268288000" style="margin: 0px; padding: 0px"/> <img alt="Salesforce Certified Data Architect | Attest_ID " width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000BB2nM&oid=00DF0000000gZsu&lastMod=1638349236000"/> <img alt="Salesforce Certified Sharing and Visibility Architect | Attest_ID " width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000BB2nq&oid=00DF0000000gZsu&lastMod=1638349821000"/>
+<img alt="Salesforce Certified Platform Developer I | Attest-ID 19332277" width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000"/> <img alt="Salesforce Certified Platform App Builder | Attest-ID 16767781" width="100px" src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268490000"/>
+
 
 
 ### Connect
