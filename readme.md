@@ -3,8 +3,8 @@
 
 ### About
 - Working as a Salesforce developer 💻
-- Master's in CompSci majoring in AI 🤖
-- Everything new is exciting 🌟
+- Master's in Computer Science majoring in AI 🤖
+- Everything new is exciting ✨
 - Tennis, football and hiking 🎾⚽🏕️
 
 <br/>
@@ -12,6 +12,7 @@
 ### Technologies
 
 <img alt="Salesforce" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg"/> <img alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> <img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> <img alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> <img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> <img alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg"/> <img alt="Node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/> <img alt="Web components" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webcomponents-dot-org.svg"/> <img alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg"/> <img alt="Jekyll" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg"/> <img alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/> <img alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
+
 <!--
 <img alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
 <img alt="LaTeX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg"/>
@@ -35,7 +36,7 @@
 
 [<img align="left" alt="Hallvard Jore Christensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 <br/>
-
+[<img align="left" alt="Hallvard Jore Christensen | Salesforce Trailblazer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg"/>][trailblazer]
 
 -----
 
@@ -47,3 +48,4 @@
 
 
 [linkedin]: https://linkedin.com/in/hallvardjorechristensen
+[trailblazer]: https://trailblazer.me/id/hallvard
