@@ -35,7 +35,6 @@
 ### Connect
 
 [<img align="left" alt="Hallvard Jore Christensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-<br/>
 [<img align="left" alt="Hallvard Jore Christensen | Salesforce Trailblazer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg"/>][trailblazer]
 
 -----
