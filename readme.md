@@ -2,7 +2,7 @@
 
 
 ### About
-- Working as a Salesforce Technical Architect and Developer 💻
+- Technical Architect and Developer 💻
 - Master's in Computer Science majoring in AI 🤖
 - Everything new is exciting ✨
 - Tennis, football and hiking 🎾⚽🏕️
